@@ -8,6 +8,15 @@ Due to lack of real dataset now, we use the synthetic dataset for now.
 
 This project includes WGAN-GP, DCGAN, Convolutional WGAN-GP, Convolutional Adversarial Autoencoder models.
 
+## Results
+### Synthetic Data
+2D(暫時懶得加)
+3D(暫時懶得加)
+
+### Cellular Data
+
+還沒有data
+
 # Reference
 - MOR-GAN:
   - code is based on [EllyessB's github](https://github.com/EllyessB/WGAN-Regression.git)
