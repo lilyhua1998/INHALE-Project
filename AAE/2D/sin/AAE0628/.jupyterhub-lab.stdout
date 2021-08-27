@@ -1,1 +1,0 @@
-jupyter-labhub --ip=0.0.0.0 --port=38131 --NotebookApp.default_url=/lab --debug
