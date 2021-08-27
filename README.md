@@ -1,16 +1,9 @@
 # Analysis of Underground Tube Station Pollution
 ## Description
-
-This project includes WGAN-GP, DCGAN, Convolutional WGAN-GP, Adversarial Autoencoder models.
-
-## Results
-### Synthetic Data
-2D(暫時懶得加)
-3D(暫時懶得加)
+This project includes WGAN-GP, DCGAN, Adversarial Autoencoder models.
 
 ### Pollutant Data
  The pollutant data is collected from Piccadilly tube station on 2020.
-
 
 # Reference
 - MOR-GAN + WGAN-GP:
