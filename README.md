@@ -18,7 +18,7 @@ This project includes WGAN-GP, DCGAN, Adversarial Autoencoder models.
 - Convolutional Adversarial Autoencoder:
   - literature:
     - [Adversarial Autoencoder](https://arxiv.org/pdf/1511.05644.pdf)
-    - [A Better Autoencoder for Image: Convolutional Autoencoder](http://users.cecs.anu.edu.au/~Tom.Gedeon/conf/ABCs2018/paper/ABCs2018_paper_58.pdf)(not sure)
+    - [A Better Autoencoder for Image: Convolutional Autoencoder](http://users.cecs.anu.edu.au/~Tom.Gedeon/conf/ABCs2018/paper/ABCs2018_paper_58.pdf)
 
 
 # Supervisor
